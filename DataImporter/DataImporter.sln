@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DataImporter", "DataImporter\DataImporter.fsproj", "{C2FB60ED-8FC8-43DF-9153-D09A77F0BFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2FB60ED-8FC8-43DF-9153-D09A77F0BFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FB60ED-8FC8-43DF-9153-D09A77F0BFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FB60ED-8FC8-43DF-9153-D09A77F0BFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FB60ED-8FC8-43DF-9153-D09A77F0BFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

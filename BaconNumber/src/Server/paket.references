@@ -1,0 +1,9 @@
+group Server
+    FSharp.Core
+    FSharp.Data    
+    Giraffe
+    Microsoft.AspNetCore
+    Microsoft.AspNetCore.StaticFiles
+    Fable.Remoting.Giraffe
+    Gremlin.Net
+    Gremlin.Net.CosmosDb
